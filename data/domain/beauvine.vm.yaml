@@ -1,0 +1,10 @@
+---
+profile::pasture::app::default_message: "Welcome to Beauvine!"
+profile::base::dev_users::users:
+- title: 'cuker'
+  comment: 'Cuker poika'
+  pub_key: 'AAAAB3NzaC1yc2EAAAADAQABAAABAQC9/Gp00UynnGVRm5KX+JTNkhDKbgaJV2STrdTgoXm0ncAc/S6ORJylV1p3WdcXxeacrh+kwvFFcRY87CtDv48md3/sDhyVh7pMxMasGO/VIgUw+3BebD9iFP5p60XaS7Pz50WMhVCbmpjReEgfy7/BLNRu28pAYwezYhkFBj5d56qWTn4Wwx1kqU/WEdzljLPbgIgQviOe/vquEkr19S4UaCdw0lag/W3cfCPttoQDWlqBuDBcZHNd9k9BUkm1lnBmccFK42NEBGpocCWcPIoEJHjnVZkJrxuiC5MuZID7QyhYUp67BRatlaIgcPRr2RwturlLe7I4217KKKKpOMB5'
+
+- title: 'panquecon'
+  comment: 'panquecon ese'
+  pub_key: 'AAAAB3NzaC1yc2EAAAADAQABAAABAQC9/Gp00UynnGVRm5KX+JTNkhDKbgaJV2STrdTgoXm0ncAc/S6ORJylV1p3WdcXxeacrh+kwvFFcRY87CtDv48md3/sDhyVh7pMxMasGO/VIgUw+3BebD9iFP5p60XaS7Pz50WMhVCbmpjReEgfy7/BLNRu28pAYwezYhkFBj5d56qWTn4Wwx1kqU/WEdzljLPbgIgQviOe/vquEkr19S4UaCdw0lag/W3cfCPttoQDWlqBuDBcZHNd9k9BUkm1lnBmccFK42NEBGpocCWcPIoEJHjnVZkJrxuiC5MuZID7QyhYUp67BRatlaIgcPRr2RwturlLe7I4217KKKKpOMB5'
